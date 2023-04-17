@@ -7,6 +7,6 @@
 Выполнено студентом 4 курса группы Г Ерохиным Кириллом <br>
 <div align="center">
 <a href="http://bpk-prof.obr57.ru">
-<img src="media/image/logo1.png" alt="Logo" width="80" height="80">
+<img src="img/logo1.png" alt="Logo" width="80" height="80">
 </a>
 </div>
